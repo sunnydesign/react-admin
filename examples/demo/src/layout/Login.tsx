@@ -26,7 +26,7 @@ const useStyles = makeStyles(theme => ({
         alignItems: 'center',
         justifyContent: 'flex-start',
         //background: 'url(https://source.unsplash.com/random/1600x900)',
-        background: 'url(/tomatos.jpg)',
+        background: 'url(/tomatoes.jpg)',
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
     },
