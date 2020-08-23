@@ -25,7 +25,8 @@ const useStyles = makeStyles(theme => ({
         minHeight: '100vh',
         alignItems: 'center',
         justifyContent: 'flex-start',
-        background: 'url(https://source.unsplash.com/random/1600x900)',
+        //background: 'url(https://source.unsplash.com/random/1600x900)',
+        background: 'url(/tomatos.jpg)',
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
     },
@@ -129,7 +130,7 @@ const Login = () => {
                                 </Avatar>
                             </div>
                             <div className={classes.hint}>
-                                Hint: demo / demo
+                                Hint: admin / admin
                             </div>
                             <div className={classes.form}>
                                 <div className={classes.input}>
